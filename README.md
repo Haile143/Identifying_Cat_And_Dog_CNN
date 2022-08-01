@@ -1,5 +1,5 @@
-# Identifying_GIving_Picture_Is_a_Cat_Or_Dog
-# Using CNN
+# Identifying_Cat_And_Dog_CNN
+
 * This Project is to recognise cats and dogs
 
 * Here I have explored Convolution Neural Network to classify Image
